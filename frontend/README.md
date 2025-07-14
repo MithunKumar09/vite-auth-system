@@ -91,3 +91,7 @@
 FACEBOOK_APP_SECRET=your_facebook_app_secret
 
 - [ cloudflared tunnel --url http://localhost:3000 ] cloudflared tunnel for https.
+
+### add new file vercel.json
+
+- handle for /home directory for vercel when reload the website
