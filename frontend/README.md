@@ -57,7 +57,7 @@
 - Click Generate
 - Google will show a 16-character app password (like abcd efgh ijkl mnop).
 - remove space
-- environemnt folder should CLIENT_URL=[https://localhost:5173] EMAIL_USER=[mithunkumar092856@gmail.com] EMAIL_PASS=feduynmuweapqwyz
+- environemnt folder should CLIENT_URL=[https://localhost:5173] EMAIL_USER=[mithunkumar092856@gmail.com] EMAIL_PASS=feduynmuweapq*******
 
 ## Google SignIn logic
 
